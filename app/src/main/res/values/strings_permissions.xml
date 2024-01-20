@@ -1,0 +1,24 @@
+<resources>
+    <!-- Required permission message. -->
+    <string name="camera_access_required">Camera access is required to distribution the video data.</string>
+    <string name="network_access_required">Network access is required to distribution the video data.</string>
+    <string name="camera_permission_unavailable">Permission is not available. Requesting camera permission.</string>
+    <string name="network_permission_unavailable">Permission is not available. Requesting network permission.</string>
+    <string name="camera_permission_granted">Camera permission was granted.</string>
+    <string name="network_permission_granted">Network permission was granted.</string>
+    <string name="camera_permission_denied">Camera permission request was denied.</string>
+    <string name="network_permission_denied">Network permission request was denied.</string>
+
+    <!-- Optional authorization message. Used depending on the setting conditions. -->
+    <string name="location_access_required">It is set to display location information on the encoded distribution video. If you do not want to display location information, please disable it from the settings of this app.</string>
+    <string name="audio_access_required">Audio distribution is enabled. If you don\'t want to stream audio, please disable it from the settings of this app.</string>
+    <string name="location_permission_unavailable">Permission is not available. Requesting location information permission.</string>
+    <string name="audio_permission_unavailable">Permission is not available. Requesting audio recording permission.</string>
+    <string name="location_permission_granted">Location information permission was granted.</string>
+    <string name="audio_permission_granted">Audio recording permission was granted.</string>
+    <string name="location_permission_denied">Location information permission request was denied.</string>
+    <string name="audio_permission_denied">Audio recording permission request was denied.</string>
+
+    <string name="all_permission_granted">All permission required to start the camera server have been granted.</string>
+    <string name="check_audio_permission">Check audio microphone permissions in system settings.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Video Camera Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_dialog_confirm_message" translatable="false">OK</string>
+</resources>
